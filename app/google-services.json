@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99021416595",
+    "firebase_url": "https://sipuk-6aea5.firebaseio.com",
+    "project_id": "sipuk-6aea5",
+    "storage_bucket": "sipuk-6aea5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99021416595:android:44657b490a8c4f86",
+        "android_client_info": {
+          "package_name": "hanifah.sipuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99021416595-4bb1j3iadbqcvjvudjhav3l394ltcctv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hanifah.sipuk",
+            "certificate_hash": "a31fe555ac96a530d5127580f3f660d1f817d4d0"
+          }
+        },
+        {
+          "client_id": "99021416595-he8g98gt5ltqtg2gioie4pimpkns5r3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTtwu-B-dSmRT42-GrSDh0yz4dY4eOP0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99021416595-he8g98gt5ltqtg2gioie4pimpkns5r3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

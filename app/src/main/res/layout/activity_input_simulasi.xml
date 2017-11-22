@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hanifah.sipuk.InputSimulasi"
+    android:background="@color/colorPrimaryDark">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/line_register"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nama Motor"
+            android:layout_marginTop="10dp"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtnama"
+            />
+
+    <EditText
+        android:id="@+id/etRegisNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/et_background1"
+        android:hint="Nama Motor"
+        android:textColor="#000"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:enabled="false"
+        android:textColorHint="#999999"
+        android:layout_marginTop="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jenis Motor"
+            android:layout_marginTop="15dp"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtjenis"
+            />
+
+
+        <EditText
+        android:id="@+id/etJenis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/et_background1"
+        android:hint="Jenis Motor"
+        android:textColor="#000"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:enabled="false"
+        android:textColorHint="#999999"
+        android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Harga Motor"
+            android:layout_marginTop="15dp"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtharga"
+            />
+
+        <EditText
+            android:id="@+id/etHarga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_background1"
+            android:hint="Harga Motor"
+            android:textColor="#000"
+            android:inputType="textPersonName"
+            android:padding="10dp"
+            android:enabled="false"
+            android:textColorHint="#999999"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Uang Muka yang diajukan"
+            android:layout_marginTop="15dp"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtinfo2"
+            />
+
+            <EditText
+            android:id="@+id/etDP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_background1"
+            android:hint="Uang Muka (DP)"
+            android:textColor="#000"
+            android:inputType="number"
+            android:padding="10dp"
+            android:textColorHint="#999999"
+            android:layout_marginTop="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Periode Angsuran (Bulan)"
+            android:layout_marginTop="15dp"
+            android:textSize="18sp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtinfo3"
+            />
+
+        <Spinner
+            android:padding="10dp"
+            android:id="@+id/sp_angsuran"
+            android:entries="@array/listAngsuran"
+            android:background="@drawable/et_background1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        </Spinner>
+
+        <EditText
+            android:id="@+id/etGaji"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/et_background1"
+            android:hint="Gaji Pokok Per Bulan"
+            android:textColor="#000"
+            android:inputType="number"
+            android:padding="10dp"
+            android:textColorHint="#999999"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/btnHitung"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:text="Cek"
+            android:background="@drawable/btn_back1"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            />
+
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center|bottom"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+
+</RelativeLayout>
+</ScrollView>
+</RelativeLayout>

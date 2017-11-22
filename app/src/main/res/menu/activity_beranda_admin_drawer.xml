@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_data_motor"
+            android:icon="@drawable/ic_motorcycle_black_24dp"
+            android:title="Data Motor" />
+        <item
+            android:id="@+id/nav_kelola_bunga"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Kelola Bunga Angsuran" />
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_error_black_24dp"
+            android:title="Tentang" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+    </group>
+
+
+
+</menu>

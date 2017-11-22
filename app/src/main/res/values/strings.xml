@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SIPUK</string>
+    <string name="title_activity_beranda">SIPUK</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="listJenis">
+        <item>Matic</item>
+        <item>Bebek</item>
+        <item>Sport</item>
+    </string-array>
+
+    <string-array name="listAngsuran">
+        <item>12</item>
+        <item>18</item>
+        <item>24</item>
+        <item>30</item>
+        <item>36</item>
+    </string-array>
+
+
+    <string name="title_activity_beranda_admin">BerandaAdmin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

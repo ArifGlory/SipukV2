@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hanifah.sipuk">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="Login Admin" />
+        <activity
+            android:name=".BerandaActivity"
+            android:label="@string/title_activity_beranda"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DetailMotorActivity" />
+        <activity
+            android:name=".TambahMotor"
+            android:label="Tambah Motor" />
+        <activity
+            android:name=".BerandaAdmin"
+            android:label="@string/title_activity_beranda_admin"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".InputSimulasi"
+            android:label="Simulasi Perhitungan Kredit" />
+        <activity android:name=".HasilSimulasi" />
+        <activity android:name=".KelolaBungaActivity" />
+        <activity
+            android:name=".TentangActivity"
+            android:label="Tentang" />
+        <activity android:name=".DetailMotorAdmin" />
+        <activity android:name=".UbahMotorActivity" />
+        <activity android:name=".KelolaMotorActivity"></activity>
+    </application>
+
+</manifest>

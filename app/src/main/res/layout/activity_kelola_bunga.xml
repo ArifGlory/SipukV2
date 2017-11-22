@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hanifah.sipuk.KelolaBungaActivity"
+    android:background="@color/colorPrimaryDark">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="15dp"
+        android:id="@+id/line1">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Periode"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtjenis"
+            android:layout_weight="1"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bunga ( % )"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txtbunga"
+            android:layout_weight="1"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/line1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/line2"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="12 Bulan"
+            android:layout_marginTop="10dp"
+            android:textSize="20sp"
+            android:layout_marginLeft="20dp"
+            android:textColor="#fff"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/txt12"
+            android:layout_weight="0.5"
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="0.5">
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/ic_remove_white_24dp"
+                android:layout_weight="0.1"
+                android:id="@+id/btnMin12"
+                android:onClick="min12"
+                />
+            <EditText
+                android:id="@+id/et12Bulan"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/et_background1"
+                android:textColor="#000"
+                android:inputType="numberDecimal"
+                android:padding="10dp"
+                android:enabled="false"
+                android:textColorHint="#999999"
+                android:layout_weight="0.3"
+                />
+
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:background="@drawable/ic_add_white_24dp"
+                android:layout_weight="0.1"
+                android:id="@+id/btnPlus12"
+                android:onClick="plus12"/>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/line3"
+            android:layout_marginTop="10dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="18 Bulan"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="20dp"
+                android:textColor="#fff"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="0.5"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="0.5">
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_remove_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnMin18"
+                    android:onClick="min18"
+                    />
+                <EditText
+                    android:id="@+id/et18Bulan"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/et_background1"
+                    android:textColor="#000"
+                    android:inputType="numberDecimal"
+                    android:padding="10dp"
+                    android:enabled="false"
+                    android:textColorHint="#999999"
+                    android:layout_weight="0.3"
+                    />
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_add_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnPlus18"
+                    android:onClick="plus18"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/line4"
+            android:layout_marginTop="10dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="24 Bulan"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="20dp"
+                android:textColor="#fff"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="0.5"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="0.5">
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_remove_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnMin24"
+                    android:onClick="min24"
+                    />
+                <EditText
+                    android:id="@+id/et24Bulan"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/et_background1"
+                    android:textColor="#000"
+                    android:inputType="numberDecimal"
+                    android:padding="10dp"
+                    android:enabled="false"
+                    android:textColorHint="#999999"
+                    android:layout_weight="0.3"
+                    />
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_add_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnPlus24"
+                    android:onClick="plus24"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/line6"
+            android:layout_marginTop="10dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="30 Bulan"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="20dp"
+                android:textColor="#fff"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="0.5"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="0.5">
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_remove_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnMin30"
+                    android:onClick="min30"
+                    />
+                <EditText
+                    android:id="@+id/et30Bulan"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/et_background1"
+                    android:textColor="#000"
+                    android:inputType="numberDecimal"
+                    android:padding="10dp"
+                    android:enabled="false"
+                    android:textColorHint="#999999"
+                    android:layout_weight="0.3"
+                    />
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_add_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnPlus30"
+                    android:onClick="plus30"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/line5"
+            android:layout_marginTop="10dp"
+            >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="36 Bulan"
+                android:layout_marginTop="10dp"
+                android:textSize="20sp"
+                android:layout_marginLeft="20dp"
+                android:textColor="#fff"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="0.5"
+                />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_weight="0.5">
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_remove_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnMin36"
+                    android:onClick="min36"
+                    />
+                <EditText
+                    android:id="@+id/et36Bulan"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/et_background1"
+                    android:textColor="#000"
+                    android:inputType="numberDecimal"
+                    android:padding="10dp"
+                    android:enabled="false"
+                    android:textColorHint="#999999"
+                    android:layout_weight="0.3"
+                    />
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/ic_add_white_24dp"
+                    android:layout_weight="0.1"
+                    android:id="@+id/btnPlus36"
+                    android:onClick="plus36"/>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+
+
+        <Button
+            android:id="@+id/btnUbahBunga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:visibility="visible"
+            android:text="Ubah"
+            android:background="@drawable/btn_back1"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/btnSimpanBunga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:padding="10dp"
+            android:visibility="gone"
+            android:text="Simpan"
+            android:background="@drawable/btn_back1"
+            android:layout_marginTop="15dp"
+            />
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="center|bottom"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dp"
+        android:visibility="gone" />
+
+    <Button
+        android:id="@+id/btnSetDefault"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:padding="10dp"
+        android:layout_alignParentBottom="true"
+        android:text="Kembali ke Pengaturan awal"
+        android:background="@drawable/btn_back1"
+        android:layout_marginTop="15dp"
+        />
+
+
+</RelativeLayout>
+</ScrollView>
+    </RelativeLayout>

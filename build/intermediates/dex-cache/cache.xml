@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\26c3797c1199c34bb4c32939ce2c5810e659f1fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_4cfcf8a3d916b1f7cf8f126a400af39db692d449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\firebase-client-jvm-2.3.1_6769561b1c707f5d48f3c7fb2b13cb888a7b6258.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\007d45f69e0b1d87f8f718c88e7bcf60660c9b44\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_37451461b220e119fce2ba54421d1c02f45af38f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\jackson-annotations-2.2.2_779b876bea6aba5b368dcfaf56cb4c1d27347f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\577f8d5ab356864b80748895d1e751c5b18d565d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_7c998d574e5137c24717b52fe10cc83d4bb18795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\aef770ac4b8ba0d590cfa986d5677ec14dbaae1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_62e4faf097261929e1bde2cdb9592daac8c27874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\0155cd2e34b61f2b2a82204140c48804f1115790\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_840a20e95396979fb98f7113d3373878d9b51710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\065b588d1b92adbdc8238e441cfda968ec102c30\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_d4e9761ff70a5ff92a7b0902e86739a6003f1642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\836527d07528be8b709648cede99cb041174018d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_461ed2cdbe3de15736237f7bdf77e58092d37d66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\d2b95a198477d9640f93e2d36cc37563371264d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_1e76b6b28fdccb81c5bff3b1b8c0c21907268917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\64b09629de3362c893513dcb1809318833fe507c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_9c611478a9a9e434c7553e01c47f19b7d324f763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\3fbd9a83b4d2f97b060e5c17190575961813832d\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_f570432aaa27dcacbeacde9d9ccad2681687ba95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\cebd9616d89063a35981bf2ecc8d8fcf0581d8c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_e588329f4717285d1000a361517d94b428506b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\9c473e5ea32031a13eca0c9f75e6b27bd0c28859\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_359195a794284cc4d1c1eb878e644767433f21bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\9baf667e7c1aff8df7ff31fd416354589a589daf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_3c5c368b32f6ee48551a9b0c7b23848f9c680266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\70b350991d1d613c1e037bff7210ac11c71544fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_84f3ca80eb14f39513cf40f2a1d7e961799cd4e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\bda2764082cd430e3b402bef560f1af3456dd3b6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_cfe5f08e14e33456ba4d80dcd44cc57b6452ea70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\firebase-client-android-2.3.1_845335dda58c2c745afad8974274bfca43a26d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\5e8b6a5560ebb6de042408816f694ed1568a393e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_7ce79bb707cf2de4733676fa6780929ff3e9fbb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\ad0c0d9da5a130c8296439a6194494322da3875d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_e82e48ff89e512f79bd90f9ba1869086d5cb99d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\713b63eefe380ca1a67981930e4e0e4c20827d34\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_e70d2213535a0d237bac42f1191090aea40ccf3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_157bc83373576e21111cf4cd27770d594fefb303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\d73fe689390b01f559e041f345f0295f26174c5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_c50c0fb0d817cdb8af9e5fdd0b9d98eb29b42f6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\1828ec4c12c991dcbbd6f1642b05e876de23d594\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_cc94110f70f1f1643997eca35126b2694850ce9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\48420fa2b1d541c5eb84040fa32203ae5cd329ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_9a003b3a3d7a1cdf29649235ff207539753c10f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\b4e346632ca0bde9bf302381a7d6e2f69033a427\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_e9cc0196a9e437322fcd205daec2de8a4f4913be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\effd4fc72ee895fff550a8648bcc259120720c03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_f151abde520a01f8ca551e50954b4ce691d8ece1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\a9565b74826e45c05ec7964e68a8f962f07404ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_c62744d7745f41b63c8446c63464252780a25a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\35d6b249e35db6a596f9d5288a7e0883870c0a5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_dd5e5b89228ef77974a78c96f00f3dd8db4a9e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\jackson-core-2.2.2_60cec0b84729b2841cac0583d3daaa809b8f06db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\ae25606c9df2c0acad44b333a7232fb79b7c8614\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_37220b00a0c21e5614234670a19aeca518b54478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\b5e0a0f48ff813996d80ba98078bb697348697e3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_75da34229369f3aecce875a4dbc022136320b5c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\51f22901eb8a2fb23f18f018db9a218d5e58adf7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_d4904e0bcdbb8c6462d209ad8bbbde660868a8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\7db10f5c3e10a1bbc80f7b3e1d36ee0b835d1446\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_7338492f4af36b761f180485f483c828aa0dbf05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\839168ad7194369dad11d0cc60b17205d76ffe9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_d96fe4ca35a226dbf6ae5e069ecc3fc7f24eeb4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\c380aa9780f424ae5a51b9d4dbed15a4b6324822\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_36abe19f2a82a34ae4fc640bc0035e1c7f973815.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6c1b0e56b893cada5de2ea0581c7a04b5f86c377\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\30ef78ec55dab70c5daaf315682bca9f1d9d5417\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_6049de03be65744e732280d4d8f86b7c062eaa4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\4015d69c948214765a93fb55e8afd3b6f2206637\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_9c464146bdf0296c4d6f4ec120255cb284c78c5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\jackson-databind-2.2.2_da023c87455082234e47a78143fd85d25640af78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\ec9ea19f556232eb09cfec0d99294a06c8fefd73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_5ea1f44ccade79964f34525ca0864ab5f0882000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\550b75b8cd3859b3e0c59171a3038e48989d582f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_29a03cf0432b861e811259441cb2186cd8c03fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\c7d6c567c93b4192e1495b10d9c64b6291280fcd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_3542be479d9482c02cfa6448c6c42ee484ac47df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\2578f1ef3678ee411fdce28e8eb2b6a54acf1f94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_6476c9a7fbfa9ed9584c6c7e17cd6b846a92b8da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\5292ffcd4512054e1fd6da393806f976c924db5f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_dccb83eeb91649d0c3191c38b3c13ca366977673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\2fe77b3e285dcc6720264cbcb983d5354c19b395\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_f1f54abd09f184c0ef0a661c1bc495d769e7122d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\1a8cda67ad8d7c8cf774b6229c9db96ca4c39a84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_37afed85cd3c5f64b3321c84f99bd539d975c253.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\10f14fc0cea3acd2a592801a0b97f1cc6e7cffa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_a52795335fec809f6bd380e814efa0110d31a73e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\287b5f97269b3fe483e136b7cfa17f3f5c9addc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_38ce38672b12cb6db609ff36f866d3932bfbc4d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\4a5ae36e297e8847696f6f2274ee7ba4ef24a557\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_5bfe3e4c4fe723840334cce11065ad480422fe69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\1ce0fff9809416f7c39231104172a82b85fdf429\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_d95bd470b460712416b2026ac790e803716e6a3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\e3c338c907329767d802851286cb24b8ddc2a037\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_fd99b9a5f407e2c7c35fd29459f5b3778ba38abf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\3fbd9a83b4d2f97b060e5c17190575961813832d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_c90122711775281c0d74598d4fd2a5665c735e18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\0305070819f9f63999a39102d51d93b94fdbbd6a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_f72c4d991b1daa87ae0981eff65572add4ba1fef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\8f382648fd70d0bfa3983214f24c25df6e130548\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_291bec8f46a733778335cc7072e5850e2b6ebb85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\00316909398c4ca2d63c72160e1657c7e40815eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_f789c538b444992a9103630ad0aa6ea15c75d177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0-alpha1_f7c4fcd250fca37f0af44e709b75506f11a726a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\1591fc928d39f30725d844b7144c297b90f94fc5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_8769039d8902416ad2eb1119b5268b4b37744eb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\084e9121c7785ae4aba7891953d90eabdeba0dfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_a7d5917ce3f5f5a9058707e1081f5b3e4636ddd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\ae17db179514fc45517ab3ef05937ae8a9b24268\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_4af02086e61f03f95a172dff836e529f266ba4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\969da9fb5eccc28b4a334aedc787df586346c3fd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_907399be664e0dd1a2ad92a2621f5b3f85474954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\40f424500c860548f1f9ce8ce87115a71378393a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_2b645d03a686a72377341c882d5f2db2d9f100e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\6bebb80414828a372f7c4ce9dee3cb828a8e46f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_8a2bb0f7e8d93ecc9978fdee8857dd465434917e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\0ec459c145f6e5ed7c88456fecdfa5aecf8ddc8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_5b70791c479dc48eb8db65591b925a98ae2c7cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\9d838c898fb41f1cfa4cb451a8b76526bc890056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_9bbe7e108486105ce94c2f9f4405092f277e3cda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\c9956a76566e368280295ce1d748fcf9fb466932\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_e51c1601f781781d4b8a60c2298cd3aec8e25b8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\65b9cd38d2be95cc175bdec59e14054b59db61c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_4acd2226d42512dcb2b33ec6ce80e21d7cf93b46.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6463fce705902fc54e083e59394623ccfb4dcb61">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ab5552d9e4ac89c374719e9968bf8de13b0a8794\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\325b4a1efcede07221583cdf63c3c2bc8e3bd76b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_071f4819fb7c0558c7d0c98a56de2ed56afbac9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.android\build-cache\8a9975318af4ecc34d01a200bdc62d3bd476ad63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\classes_b923dfc8b2879bdbc399894a51a14bfa05b0d4e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Glory\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="E:\Project\Referensi Coding android\Sipuk-master\app\build\intermediates\pre-dexed\release\tubesock-0.0.11_7f1684a281803872bb9aa1edaace5d7869ef1856.jar" />
+    </item>
+
+</items>
